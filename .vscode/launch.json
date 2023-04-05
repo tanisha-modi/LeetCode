@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q1_RomanNo",
+            "request": "launch",
+            "mainClass": "Q1_RomanNo",
+            "projectName": "leetcode_787e2dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q2_IntToRoman",
+            "request": "launch",
+            "mainClass": "Q2_IntToRoman",
+            "projectName": "leetcode_787e2dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q3_LongestCommonPrefix",
+            "request": "launch",
+            "mainClass": "Q3_LongestCommonPrefix",
+            "projectName": "leetcode_787e2dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch QQ",
+            "request": "launch",
+            "mainClass": "QQ",
+            "projectName": "leetcode_787e2dde"
+        }
+    ]
+}

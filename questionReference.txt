@@ -1,0 +1,3 @@
+Q2 ----------------------
+StringBuilder --> class in java 
+StringBuilder(): Constructs a string builder with no characters in it and an initial capacity of 16 characters. 
