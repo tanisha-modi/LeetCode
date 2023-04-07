@@ -1,4 +1,4 @@
-// lin to the question -->https://leetcode.com/problems/palindrome-number/submissions/926435233/
+// lin to the question -->https://leetcode.com/problems/palindrome-number/
 
 class Solution {
     public boolean isPalindrome(int x) {

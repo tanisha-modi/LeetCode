@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Q4_RotatedArray",
+            "request": "launch",
+            "mainClass": "Q4_RotatedArray",
+            "projectName": "leetcode_dbe7940"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"

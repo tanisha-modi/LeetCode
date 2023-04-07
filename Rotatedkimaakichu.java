@@ -43,16 +43,9 @@ public class Q4_RotatedArray {
         int[] arr = new int[t];
 
         for (int i = 0; i < arr.length; i++) {
-            int k = t;
-            if(arr.length< k){
-                for(int x = 0; x < k; k--){
-                    int temp = arr[x];
 
-                }
-            }
-            else{
             arr[i] = nums[nums.length - t + i];
-            }
+
         }
         for (int i = nums.length - 1; i > t - 1; i--) {
             // System.out.println(nums[i]);

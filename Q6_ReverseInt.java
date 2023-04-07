@@ -1,4 +1,4 @@
-// link to the quesyion --> https://leetcode.com/problems/reverse-integer/submissions/926757925/
+// link to the quesyion --> https://leetcode.com/problems/reverse-integer/
 
 class Solution {
     public int reverse(int x) {
