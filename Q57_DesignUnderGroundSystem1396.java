@@ -23,7 +23,7 @@ class UndergroundSystem {
             travelInfo.totalTime += travelTime;
             travelInfo.count++;
         } else {
-            travelTimes.put(travel, new TravelInfo(travelTime, 1));
+            travelTimes.put(travel, new TravelInfo(travelTime, 1)); 
         }
     }
 
