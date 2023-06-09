@@ -2,3 +2,8 @@ Q2 ----------------------
 StringBuilder --> class in java 
 StringBuilder(): Constructs a string builder with no characters in it and an initial capacity of 16 characters. 
 ArrayList.get(2).get(1) --> 2d arraylist element acces method 
+
+Q64-----------
+We use arrayname.length to determine the number of rows in a 2D array because the length of a 2D array is equal to the number of rows it has. 
+The number of columns may vary row to row, which is why the number of rows is used as the length of the 2D array.
+to see how many columns the first row of the 2D array contains by calling exampleVariableOne[0].length.
